@@ -1,0 +1,7 @@
+</*1024:768 */>
+
+div.centerframe{
+  width:400px;
+  height:600px;
+  background-color:gray;
+}

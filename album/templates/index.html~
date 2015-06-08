@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>Photoblog, memories in pixels</title>
+<link rel="stylesheet" type="text/css" href="css/index.css">
+</head>
+<body>
+<div class="centerframe">
+This is the centre frame<br />
+</div>
+</body>
+</html>

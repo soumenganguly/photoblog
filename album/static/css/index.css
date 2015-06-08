@@ -1,0 +1,46 @@
+/*1024:768 */
+
+div.header{
+    width: 1200px;
+    height: 50px;
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+    color: green;
+    text-align: center;
+    padding: 10px;
+    align: center;
+}
+
+div.nav-left{
+    float: left;
+    width: 300px;
+    height: 400px;
+    background-color: blue;
+    margin-left: 20px;
+}
+
+div.nav-right{
+    float: right;
+    width: 300px;
+    height: 400px;
+    background-color: blue;
+    margin-right: 20px;
+}
+
+div.centerframe{
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+  height: 400px;
+  background-color: gray;
+}
+
+div.slider{
+    width: 800px;
+    height: 100px;
+    background-color: gray;
+    margin-left: auto;
+    margin-right: auto;
+}
+
